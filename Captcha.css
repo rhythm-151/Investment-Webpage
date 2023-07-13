@@ -1,0 +1,41 @@
+.box{
+  padding-left: 2.5px;
+}
+
+.main-heading{
+    color: navy;
+    margin-top: 60px;
+  }
+  
+  .captcha-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    margin: 1px ;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    color: black;
+    background-color: gray;
+  }
+  
+  .enter-captcha-box{
+    color:black;
+  }
+  #enteredCaptcha{
+    display: flex;
+    width:300px;
+    padding:10px 0px;
+    margin-bottom: 20px;
+    margin-top: -16px;
+    margin-left: 0px;
+  }
+  .submit-button{
+    color: black;
+    margin: 20px 0px;
+    background-color: green;
+    text-align:center;
+    width:300px;
+    padding:10px 0px
+  }
+  

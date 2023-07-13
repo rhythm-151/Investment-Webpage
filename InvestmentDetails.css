@@ -1,0 +1,129 @@
+.message-box {
+  text-align: center;
+  background-color: white;
+}
+
+.message-text {
+  font-size: 17px;
+  color: rgb(8, 8, 122);
+  margin-bottom: 0px;
+}
+
+.message-description {
+  font-size: 18px;
+  display: inline-block;
+  word-wrap: break-word;
+  color: rgb(8, 8, 122);
+}
+
+h4 {
+  color: rgb(24, 201, 145);
+  margin: 0px;
+}
+
+.line-break {
+  display: block;
+}
+
+.investment-details-container {
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+ 
+}
+
+.investment-details-container h3 {
+  font-size: 20px;
+  margin-bottom: 30px;
+  background-color: rgb(45, 45, 88);
+  color: white;
+  padding: 10px;
+
+}
+
+.investment-details-container div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.investment-details-container label {
+  width: 350px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.investment-details-container select,
+.investment-details-container input {
+  width: 500px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.investment-details-container input[type="number"] {
+  width: 300px;
+}
+
+.investment-details-container select:focus,
+.investment-details-container input:focus {
+  outline: none;
+  border-color: blue;
+}
+
+.bkcolor {
+  background-color: #f2eeee;
+}
+
+#investmentMode {
+  margin-right: 400px;
+  width:400px;
+}
+#numberOfAccountHolders {
+  margin-right: 500px;
+  width:500px
+}
+#country {
+  margin-right: 500px;
+  width:400px
+}
+#communicationAddress {
+  margin-left: 0px;
+  width:365px
+}
+#fundFeesCategory {
+  margin-right: 500px;
+  width:400px
+}
+#portfolio {
+  margin-right: 500px;
+  width:400px
+}
+
+#accountType {
+  margin-right: 500px;
+  width:400px
+}
+
+#accountholderlist{
+  margin-right: 500px;
+  width:400px
+}
+#quantumofIn{
+  margin-left: 0px;
+  width:365px
+}
+
+.short-heading {
+  font-size: 8px;
+  color: gray;
+  margin-top: 5px;
+  display: block;
+  margin-top:0px;
+  margin-right: 600px;
+}
+
+
+
+
+

@@ -1,0 +1,126 @@
+.bcolor{
+  background-color: #efebeb;
+  padding-left: 15px;
+}
+
+.main-heading1 {
+    color: white;
+    background-color: rgb(45, 45, 88);
+    padding: 9px;
+    margin-left: -10px;
+
+  }
+  .second-box {
+    color: rgb(39, 39, 110);
+    margin-left: 80px;
+    background-color:rgb(232, 228, 228);
+    justify-content: center;
+    margin-left: 700px;
+    padding-top: 10px;
+  }
+  #small{
+    color: rgb(29, 106, 81);
+  }
+  
+  .third-box {
+    color: rgb(45, 45, 88);
+    margin-left: 600px;
+    padding: 10px;
+    margin-top:-40px;
+  }
+
+  .second-box, .third-box {
+    padding: -10px;
+  }
+  
+  
+  input[type="radio"] {
+    margin-right: 15px;
+    margin-left: 30px;
+  }
+  
+  label {
+    display: inline-flex ;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  input[type="text"] {
+    margin-left: 30px;
+  }
+.investmentstyle label{
+  margin-right: 150px;
+}
+.investmentexperience label{
+  margin-right: 110px;
+}
+.investmentobjective label{
+  margin-left: 0px;
+}
+.investmentobjective {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px; 
+}
+
+.investmentobjective label {
+  margin-right: 150px; /* Add spacing to the right */
+}
+
+.investmentobjective select {
+  width: 500px;
+  height:45px /* Adjust the width as needed */
+}
+
+.risktolerance {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px; /* Add spacing at the bottom */
+}
+
+.risktolerance label {
+  margin-right: 200px; /* Add spacing to the right */
+}
+
+.risktolerance select {
+  width: 500px; /* Adjust the width as needed */
+  height: 45px;
+}
+
+.investmenthorizon {
+  display: flex;
+  align-items: center;
+}
+
+.investmenthorizon label {
+  margin-right: 100px; /* Adjust the margin as needed */
+}
+
+.investmenthorizon .radio-buttons {
+  margin-left: 20px;
+}
+
+.well label{
+  margin-right:100px;
+}
+.well{
+  display: flex;
+}
+
+.radio-group {
+  display:flex;
+  margin-top: 10px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 100px; 
+}
+
+.radio-label {
+  margin-left: 0px;
+  margin-top: 20px;
+}
+
+

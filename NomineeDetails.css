@@ -1,0 +1,55 @@
+
+h2 {
+    background-color: rgb(45, 45, 88);
+    color: white;
+  }
+  
+  h3 {
+    background-color: rgb(45, 45, 88);
+    color: white;
+    margin-right: 0px;
+    padding: 10px;
+  }
+  
+  .heading-container {
+    display: flex;
+    align-items: center;
+    background-color: #f2eeee;
+  }
+  
+  .heading-container > h2 {
+    margin-right: 10px;
+  }
+  
+  .selectnomineedropdown {
+    padding: 9px;
+    width: 500px;
+  }
+  
+  .nominee-fields {
+    margin-bottom: 20px;
+    background-color: #f2eeee;  }
+  
+  .nominee-fields input[type="text"],
+  .nominee-fields select {
+    width: 500px;
+    padding: 15px;
+    margin-top: 10px;
+  }
+  .fields1{
+    margin-left: 28px;
+  }
+  .dob{
+    margin-top:-20px;
+    margin-left: 28px;
+  }
+
+
+  .dob select {
+    width: 90px; 
+    margin-right: 10px; 
+  }
+  .hd{
+    background-color: #f2eeee;
+  }
+  
